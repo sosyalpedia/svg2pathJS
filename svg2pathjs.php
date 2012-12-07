@@ -152,14 +152,4 @@ if (defined('STDIN')) {
     echo("Sorry, only running from CLI");
     exit(0);
 }
-
-
-/*
-$svg = new svg2pathJS();
-$svg->convert('SVG_example7.svg');
-//$svg->convert('BlankMapTurkishProvincesRegions.svg');
-//$svg->convert('Tux.svg');
-$svg->export();
-*/
-
-
+?>
